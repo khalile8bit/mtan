@@ -3,6 +3,6 @@ def add(x,y):
 
 if __name__ == '__main__':
     print("program start")
-    sadffas;
-    add(4,5)
+    
+    print(add(4,5))
     
