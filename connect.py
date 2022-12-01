@@ -17,4 +17,5 @@ cur.execute("SELECT * FROM YOUR_TABLE_NAME")
 for row in cur.fetchall():
     print row[0]
 print(row[0])
+print(row[1])
 db.close()
